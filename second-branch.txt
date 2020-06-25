@@ -1,3 +1,11 @@
 SECOND BRANCH
   - Buat Mobil Arduino
+    # Pilih bahan
+    # Coding
+    # Upload Code
+    # Running
   - Cetak Body dengan Anet 3D
+    # Pelajari Blender
+    # Bikin Body Mobil
+    # Beli 3D Anet
+    # Cetak Body 3D
