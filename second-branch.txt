@@ -10,3 +10,5 @@ SECOND BRANCH
     # Bikin Body Mobil
     # Beli 3D Anet
     # Cetak Body 3D
+  - Python
+    # Machine  Learning
