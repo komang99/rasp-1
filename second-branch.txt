@@ -12,5 +12,6 @@ SECOND BRANCH
     # Cetak Body 3D
   - Belajar Blender
     # Bikin Modelling
-  - Python
+  - Python (Bukan Anaconda)
     # Machine  Learning
+  - Editing file second-branch.txt setelah Forksecond-branch.txt
