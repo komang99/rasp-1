@@ -10,3 +10,7 @@ SECOND BRANCH
     # Bikin Body Mobil
     # Beli 3D Anet
     # Cetak Body 3D
+  - Belajar Cetak 3D
+    # Cetak 3D dengan Anet
+  - Belajar Blender
+    # Bikin Modelling
