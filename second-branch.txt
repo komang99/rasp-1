@@ -4,6 +4,7 @@ SECOND BRANCH
     # Coding
     # Upload Code
     # Running
+  - Membuat VLOG
   - Cetak Body dengan Anet 3D
     # Pelajari Blender
     # Bikin Body Mobil
