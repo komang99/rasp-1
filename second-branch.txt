@@ -10,5 +10,7 @@ SECOND BRANCH
     # Bikin Body Mobil
     # Beli 3D Anet
     # Cetak Body 3D
+  - Belajar Blender
+    # Bikin Modelling
   - Python
     # Machine  Learning
